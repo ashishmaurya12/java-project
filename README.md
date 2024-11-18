@@ -1,2 +1,2 @@
 # java-project
-online voting system program by using java
+online voting system program by using java.
